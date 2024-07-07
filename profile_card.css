@@ -71,7 +71,7 @@ body {
   margin-bottom: 25px;
 }
 
-.card-details a {
+.card-details .hirefollow {
   text-decoration: none;
   font-size: 1.2rem;
   text-transform: uppercase;
@@ -82,7 +82,7 @@ body {
   border-radius: 5px;
 }
 
-.card-details a:hover {
+.card-details .hire:hover {
   background-color: #444;
 }
 
